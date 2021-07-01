@@ -1,0 +1,85 @@
+
+
+div{
+    background-color: #008060;
+    text-align: center;
+  
+}
+h3{
+    color:white
+    
+}
+.big{
+    font-size: 200%;
+    color: yellow;
+    font-family: cursive;
+    
+}
+H1{
+    color: white;
+    font-size: 400%;
+    
+}
+.p2{
+    font-size: 180%;
+    color: white;
+
+}
+input{
+    font-size: 150%;
+    border: 2px solid black;
+  text-align: center;
+  margin: 10px 20px;
+  padding: 1%;
+    
+}
+button{
+    font-size: 150%;
+    border: 2px solid black;
+    border-radius: 4%;
+    color: white;
+    background-color: black;
+    padding: 1%;
+    
+}
+.small{
+    color: white;
+}
+.small2{
+    color: white;
+}
+.demo{
+    inline-size: 20%;
+    border-radius: 50%;
+    border: 5px solid black;
+    box-shadow:red;
+
+}
+.div2{
+margin: 50px 20px 10px 10px;
+padding-right: 10px;
+background-color: white;
+width: 30%;
+text-align: justify;
+float: left;
+height: 120%;
+
+}
+.div3{
+    text-align: center;
+   
+   
+    
+}
+.visa{
+    border-radius: 5%;
+  
+}
+
+
+
+
+
+
+
+
